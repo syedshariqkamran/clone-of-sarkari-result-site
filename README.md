@@ -1,8 +1,4 @@
-# clone-of-sarkari-result-site
-it is clone of sarkari result static website
-every things are like sarkari result but is updated 
-many things are not available in sarkari result but it is available here 
-like NDA,CDS previous year question paper you can download easly
-it is directly linked with sarkriresult.com 
-it is just project made with html and css using inline and internal css 
-
+The website you've created is a static clone of Sarkari Result, replicating its core functionality and design while also enhancing it with additional features like the availability of NDA and CDS previous year question papers for easy download. This project primarily employs HTML and CSS, utilizing inline and internal CSS for styling. While maintaining a striking similarity to Sarkari Result, it ensures that users have a richer and more resourceful experience by providing access to valuable educational materials such as previous year question papers. The website is directly linked with SarkariResult.com, maintaining a connection with the original source of information.![1](https://github.com/syedshariqkamran/clone-of-sarkari-result-site/assets/89725524/d99610d3-cdc5-4b32-be89-be96f390067a)
+![2](https://github.com/syedshariqkamran/clone-of-sarkari-result-site/assets/89725524/a4701bb8-5092-4dad-b5c8-a6d78037e045)
+![3](https://github.com/syedshariqkamran/clone-of-sarkari-result-site/assets/89725524/8d1f28e1-362b-4364-82af-ce2239a50b71)
+![screenshot](https://github.com/syedshariqkamran/clone-of-sarkari-result-site/assets/89725524/3b4578c3-cd6c-4b42-afd0-a4a7fcce9ced)
